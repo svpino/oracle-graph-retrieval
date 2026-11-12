@@ -1,0 +1,6 @@
+oracleagentmemory==26.8.0
+oracledb>=2.5,<5
+python-dotenv>=1,<2
+pandas>=2.2,<4
+ipykernel>=6,<8
+jupyterlab>=4,<5

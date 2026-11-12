@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+wallet*/
+Wallet*/
+*.pem
+*.p12
+*.sso
+.wallet/
+.DS_Store
+.vscode/
